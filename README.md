@@ -10,6 +10,17 @@
 [Documentation]: https://sbox.game/dev/doc/
 [Contributing]: CONTRIBUTING.md
 
+# s&box modding tools
+s&box modding tools is a fork of the S&box game engine to add modding tools for users such as mod management, patching core functionality through MonoMod.RuntimeDetour and more.
+
+Planned features:
+- Loading WASM (with Wasmtime) allowing mods to be written in (almost) any language along side normal .NET assemblies
+- Hot reloading through the built in editor API (and custom functionality for Web Assembly).
+- Custom asset loading
+- Custom mod-managed mouting points for assets from other games to be used. (I.E. other source engine games)
+
+Note that any of these features may be dropped due to viability and/or difficulty for my skillset. Feel free to contribute your own changes, additions, and enhancements!
+
 # s&box
 
 s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games.
