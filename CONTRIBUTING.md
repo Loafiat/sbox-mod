@@ -3,10 +3,11 @@
 ## Reporting Bugs
 
 Please follow these guidelines when reporting a bug or crash:
-* Please don't report bugs with games or addons - report them to the author.
+* Please don't report bugs with games, addons or mods - report them to the author.
 * Please be thorough in your bug report. Tell us everything.
 * If you can recreate the bug give us a step by step.
 * Make sure your bug hasn't already been reported.
+* Make sure your bug is an issue with this fork, if it's not please report it to the [original S&box repositiory](https://github.com/Facepunch/sbox-public/issues).
 
 ### Proton
 
@@ -20,7 +21,7 @@ Please follow these guidelines when requesting a feature:
 
 ## Security Exploits
 
-If you've found a security exploit, please report it by visiting https://facepunch.com/security
+If you've found a security exploit, please report it by visiting https://facepunch.com/security, or if it's an issue with this fork in particular contact me on discord, @lofiat.
 
 ## Making Changes
 
